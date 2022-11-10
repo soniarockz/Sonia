@@ -1,0 +1,28 @@
+.submitprofile{
+    color: black ;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 200vh;
+    margin: 2rem;
+
+}
+body{
+    color: brown;
+    background-color: blueviolet;
+    align-items: center;
+    height: 100%;
+}
+div{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    font-size: large;
+    margin: 1rem;
+    
+    
+
+}
